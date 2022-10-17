@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CelGx
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning mathematics
-- 💞️ I’m looking to collaborate on statistics
 
 
 <!---
